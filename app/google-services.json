@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106814201355",
+    "firebase_url": "https://citytracker-cf2ad.firebaseio.com",
+    "project_id": "citytracker-cf2ad",
+    "storage_bucket": "citytracker-cf2ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106814201355:android:470a9d21a6a8c820",
+        "android_client_info": {
+          "package_name": "com.example.shubhangi.citytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106814201355-so28me7g2065lpq3jb8957832uf14d1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubhangi.citytracker",
+            "certificate_hash": "851243028dae4272ac062c8a29935107b4676edb"
+          }
+        },
+        {
+          "client_id": "106814201355-39f6qe0ial8rft90vtdroes9gl68j3lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcynIFyhaP_zN26e5Pkbh_MOtgycGPAv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106814201355-39f6qe0ial8rft90vtdroes9gl68j3lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
